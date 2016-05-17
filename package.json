@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "charm": "^1.0.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-watch": "^4.3.5",
+    "mocha": "^2.4.5"
   }
 }
