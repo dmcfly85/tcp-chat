@@ -1,0 +1,14 @@
+{
+  "name": "tcp-chat",
+  "version": "1.0.0",
+  "description": "A basic tcp chat client and server",
+  "main": "chat_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dustin McBride",
+  "license": "ISC",
+  "dependencies": {
+    "charm": "^1.0.1"
+  }
+}
